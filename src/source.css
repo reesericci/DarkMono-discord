@@ -933,3 +933,13 @@
     background-color: var(--background-secondary) !important;
     border: 2px solid var(--background-tertiary) !important;
 }
+
+.theme-dark .container-2x5lvQ .header-2C89wJ {
+    background-color: var(--background-secondary);
+    border: 2px solid var(--background-tertiary);
+}
+
+.theme-dark .container-2x5lvQ section {
+    background-color: var(--background-primary);
+    border: 2px solid var(--background-tertiary);
+}
