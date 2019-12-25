@@ -943,3 +943,9 @@
     background-color: var(--background-primary);
     border: 2px solid var(--background-tertiary);
 }
+
+.theme-dark .wrapperAudio-1jDe0Q {
+    background-color: var(--background-tertiary);
+    border-color: transparent;
+    border-radius: 0px;
+}
