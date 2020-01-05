@@ -1027,3 +1027,13 @@
     border-radius: 0 4px 4px 0;
     padding: 10px;
 }
+
+.theme-dark .regionSelectModal-12e-57 {
+    background: var(--background-primary);
+}
+
+.theme-dark .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {
+    background: var(--background-tertiary);
+    border-radius: 20px;
+    border: 0;
+}
