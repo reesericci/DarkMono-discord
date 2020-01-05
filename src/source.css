@@ -994,3 +994,19 @@
 .theme-dark .theme-dark .actionIcon-2IISM_, .theme-dark .theme-light .actionIcon-2IISM_ {
     filter: none !important;
 }
+
+.regionSelect-3lf4eE .regionSelectInner-24f4Ce {
+    padding: 7px;
+    border-radius: 0;
+    border: none;
+}
+
+.regionSelect-3lf4eE button {
+    margin: 0px 0 0 0;
+}
+
+.theme-dark .regionSelect-3lf4eE, .theme-light .regionSelect-3lf4eE {
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 10px;
+}
