@@ -990,3 +990,7 @@
     background: transparent;
     border-bottom-color: #f0f0f0;
 }
+
+.theme-dark .theme-dark .actionIcon-2IISM_, .theme-dark .theme-light .actionIcon-2IISM_ {
+    filter: none !important;
+}
