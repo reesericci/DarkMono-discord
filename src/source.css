@@ -1010,3 +1010,20 @@
     border: 2px solid white;
     border-radius: 10px;
 }
+
+.theme-light .input-1mgnkM {
+    color: white;
+    background: transparent;
+    border-bottom-color: #f0f0f0;
+}
+
+.regionSelect-3lf4eE button {
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    color: #7289da;
+    font-size: 14px;
+    border: 0;
+    border-left: none;
+    border-radius: 0 4px 4px 0;
+    padding: 10px;
+}
