@@ -970,3 +970,17 @@
 .theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
     background-color: #141414 !important;
 }
+
+.slideBody-35BNbg {
+    padding: 0 12px;
+    background-color: #141414 !important;
+}
+
+.theme-dark .theme-light .footer-3rDWdC {
+    background: #111111 !important;
+    box-shadow: none;
+}
+
+.footer-3rDWdC {
+    border-radius: 0 0 0px 0px;
+}
