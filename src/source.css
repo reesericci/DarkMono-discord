@@ -966,3 +966,7 @@
     -webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
     box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
 }
+
+.theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
+    background-color: #141414 !important;
+}
