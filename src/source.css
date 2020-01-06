@@ -1,4 +1,7 @@
 :root { 
+    --background-dark-primary: #141414 !important;
+    --background-dark-secondary: #111111 !important;
+    --background-dark-tertiary: #0c0c0c !important;
     --header-primary: #fff !important;
     --header-secondary: #b9bbbe !important;
     --text-normal: #dcddde !important;
@@ -1036,4 +1039,19 @@
     background: var(--background-tertiary);
     border-radius: 20px;
     border: 0;
+}
+
+.theme-dark .container-VSDcQc .sectionTag-pXyto9 {
+    background-color: var(--background-primary);
+    color: #72767d;
+    border: 2px solid var(--background-tertiary);
+}
+
+.theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .autocompleteHeaderBackground-30T70q {
+    background-color: var(--background-secondary);
+    border: 2px solid var(--background-tertiary);
+}
+
+.theme-dark .row-rrHHJU.selected-1pIgLL {
+    background: var(--background-modifier-accent) !important;
 }
