@@ -1081,3 +1081,8 @@
 .theme-dark .progress-1IcQ3A {
     background-color: rgb(100,100,100);
 }
+
+.theme-dark .card-FDVird:before {
+    background-color: var(--background-modifier-hover);
+    border-color: transparent !important;
+}
