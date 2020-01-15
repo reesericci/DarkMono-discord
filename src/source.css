@@ -1086,3 +1086,16 @@
     background-color: var(--background-modifier-hover);
     border-color: transparent !important;
 }
+
+.toolbar-2bjZV7 {
+    background-color: var(--background-tertiary);
+    border-radius: 4px;
+    -webkit-box-shadow: var(--elevation-high);
+    box-shadow: var(--elevation-high);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 32px;
+    pointer-events: all;
+    position: absolute;
+}
