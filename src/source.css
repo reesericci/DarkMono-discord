@@ -1139,3 +1139,10 @@
     flex: 1 1 auto;
     overflow: hidden;
 }
+
+.panels-j1Uci_ {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    background-color: var(--background-tertiary);
+}
