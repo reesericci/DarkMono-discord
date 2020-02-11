@@ -1195,3 +1195,25 @@
     -ms-flex-align: center;
     align-items: center;
 }
+
+.diversitySelector-tmmMv0 .popout-2nUePc {
+    background-color: var(--background-tertiary);
+    position: absolute;
+    margin-left: -1px;
+    margin-top: -1px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    border-radius: 3px;
+    border: 1px solid var(--background-tertiary);
+    overflow: hidden;
+}
+
+.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S {
+    background-color: var(--background-tertiary);
+    border-radius: 3px;
+}
