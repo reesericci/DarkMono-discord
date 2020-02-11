@@ -1217,3 +1217,7 @@
     background-color: var(--background-tertiary);
     border-radius: 3px;
 }
+
+.theme-dark .popoutList-T9CKZQ {
+    background: var(--background-primary);
+}
