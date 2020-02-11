@@ -1171,3 +1171,8 @@
 .theme-dark .enabled-1t_Gxm:hover {
     background-color: var(--background-modifier-hover);
 }
+
+.theme-dark .friendSelected-1sa4bG {
+    background-color: var(--background-modifier-hover);
+    color: #fff;
+}
