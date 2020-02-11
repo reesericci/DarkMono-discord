@@ -1146,3 +1146,10 @@
     flex: 0 0 auto;
     background-color: var(--background-tertiary);
 }
+
+.section-2gLsgF {
+    background-color: var(--background-primary);
+    position: relative;
+    padding: 12px;
+    border-radius: 4px;
+}
