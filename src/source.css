@@ -1153,3 +1153,21 @@
     padding: 12px;
     border-radius: 4px;
 }
+
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .popout-38lTFE {
+    background-color: var(--background-tertiary);
+    -webkit-box-shadow: 0 8px 16px rgba(0,0,0,.24);
+    box-shadow: 0 8px 16px rgba(0,0,0,.24);
+}
+
+.theme-dark .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .enabled-1t_Gxm:hover {
+    background-color: var(--background-modifier-hover);
+}
