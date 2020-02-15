@@ -1676,3 +1676,7 @@ div[class*="chatContent"] > div[class*="messagesWrapper"] div[class*="scroller"]
     -webkit-box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);
     box-shadow: 0 2px 10px 0 rgba(28,36,43,.6);
 }
+
+.theme-dark .popout-1k352f {
+    background-color: var(--background-tertiary);
+}
