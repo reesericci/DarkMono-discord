@@ -43,6 +43,8 @@
     --scrollbar-thumb-hover: #9f9f9f;
 }
 
+@import url(https://fluffingtons.github.io/revert-discord/resources/theme.css)
+
 .videoBackground-3AY_fu, .videoBackgroundTransition-3wpOSl {
     background-color: #000000;
 }
