@@ -1264,3 +1264,11 @@
     position: relative;
     width: 20vw;
 }
+
+.icon-22AiRD {
+    display: block;
+    width: 20px;
+    height: 20px;
+    -webkit-app-region: no-drag;
+    color: var(--text-muted);
+}
