@@ -1255,3 +1255,12 @@
     filter: none;
     transition: 100ms cubic-bezier(.2, .11, 0, 1);
 }
+
+.xenoLib-notification-content {
+    padding: 12px;
+    overflow: hidden;
+    background: black;
+    pointer-events: all;
+    position: relative;
+    width: 20vw;
+}
