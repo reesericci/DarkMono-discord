@@ -1245,3 +1245,13 @@
     cursor: default;
     background-color: black;
 }
+
+.userInfoViewing-16kqK3 .flexChild-faoVW3 > div:nth-child(2) .viewBody-2Qz-jg.selectable-x8iAUj {
+    filter: blur(5px);
+    transition: 100ms cubic-bezier(.2, .11, 0, 1);
+}
+
+.userInfoViewing-16kqK3 .flexChild-faoVW3 > div:nth-child(2) .viewBody-2Qz-jg.selectable-x8iAUj:hover {
+    filter: none;
+    transition: 100ms cubic-bezier(.2, .11, 0, 1);
+}
