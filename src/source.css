@@ -1,4 +1,49 @@
 @import url(https://fluffingtons.github.io/revert-discord/resources/theme.css)
+
+:root { 	
+    --background-dark-primary: #141414 !important;	
+    --background-dark-secondary: #111111 !important;	
+    --background-dark-tertiary: #0c0c0c !important;	
+    --header-primary: #fff !important;	
+    --header-secondary: #b9bbbe !important;	
+    --text-normal: #dcddde !important;	
+    --text-muted: #72767d !important;	
+    --channels-default: #999999 !important;	
+    --interactive-normal: #b9bbbe !important;	
+    --interactive-hover: #dcddde !important;	
+    --interactive-active: #fff !important;	
+    --interactive-muted: #4f545c !important;	
+    --background-primary: #141414 !important;	
+    --background-secondary: #111111 !important;	
+    --background-tertiary: #0c0c0c !important;	
+    --background-floating: #010101 !important;	
+    --background-mobile-header: #2f3136 !important;	
+    --background-modifier-hover: rgba(50,50,50,0.16) !important;	
+    --background-modifier-active: rgba(50,50,50,0.24) !important;	
+    --background-modifier-selected: rgba(50,50,50,0.32) !important;	
+    --background-modifier-accent: hsla(0,0%,100%,0.06) !important;	
+    --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05) !important;	
+    --elevation-high: 0 8px 16px rgba(0,0,0,0.24) !important;	
+    --logo-primary: #fff !important;	
+    --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4) !important;	
+    --channeltextarea-background: #202020 !important;	
+    --activity-card-background: #202225 !important;	
+    --textbox-markdown-syntax: #8e9297 !important;	
+    --deprecated-panel-background: #0e0e0e !important;	
+    --deprecated-card-bg: rgba(32,34,37,0.6) !important;	
+    --deprecated-card-editable-bg: rgba(32,34,37,0.3) !important;	
+    --deprecated-store-bg: #36393f !important;	
+    --deprecated-quickswitcher-input-background: #72767d !important;	
+    --deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3) !important;	
+    --deprecated-text-input-bg: rgba(0,0,0,0.1) !important;	
+    --deprecated-text-input-border: rgba(0,0,0,0.3) !important;	
+    --deprecated-text-input-border-hover: #040405 !important;	
+    --deprecated-text-input-border-disabled: #202225 !important;	
+    --deprecated-text-input-prefix: #dcddde !important;	
+    --scrollbar-track: #1e1e1e;	
+    --scrollbar-thumb: #545454; 	
+    --scrollbar-thumb-hover: #9f9f9f;	
+}
 	
 .videoBackground-3AY_fu, .videoBackgroundTransition-3wpOSl {
     background-color: #000000;
