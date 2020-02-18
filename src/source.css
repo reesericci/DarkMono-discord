@@ -145,8 +145,6 @@
     contain: layout size;
 }
 
-/* SEARCH BAR */
-
 .searchResultsWrap-2DKFzt {
 	background: var(--background-secondary) !important;
 }
@@ -181,10 +179,6 @@
 	border-bottom: 1px solid rgba(255,255,255,.1) !important;
 }
 
-.searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA {
-	/*background: rgba(255,255,255,0.05) !important;*/
-}
-
 .searchResult-3pzFAB .searchResultMessage-2VxO12.before-1x1q5S {
 	opacity: 0.15 !important;
 }
@@ -213,54 +207,6 @@
 
 .searchBarIcon-1J6sKG .icon-3cZ1F_.iconSearchBarClear-2DW-Kr {
 	background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiICB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgIDxwYXRoIGZpbGw9IiMzMzMzMzMiIGQ9Ik0xMiwyQzE3LjUzLDIgMjIsNi40NyAyMiwxMkMyMiwxNy41MyAxNy41MywyMiAxMiwyMkM2LjQ3LDIyIDIsMTcuNTMgMiwxMkMyLDYuNDcgNi40NywyIDEyLDJNMTUuNTksN0wxMiwxMC41OUw4LjQxLDdMNyw4LjQxTDEwLjU5LDEyTDcsMTUuNTlMOC40MSwxN0wxMiwxMy40MUwxNS41OSwxN0wxNywxNS41OUwxMy40MSwxMkwxNyw4LjQxTDE1LjU5LDdaIiAvPgo8L3N2Zz4=);
-}
-
-/* TITLE BAR -> ICONS -> VOICE CALL */
-
-.icon-22AiRD[name="Nova_CallJoin"] path {
-	d: path('M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z') !important;
-}
-
-/* TITLE BAR -> ICONS -> VIDEO CALL */
-
-.icon-22AiRD[name="Nova_CallVideo"] path {
-	d: path('M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z') !important;
-}
-
-/* TITLE BAR -> ICONS -> PINNED MESSAGES */
-
-.icon-22AiRD[name="Nova_Pin"] path {
-	d: path('M16,12V4H17V2H7V4H8V12L6,14V16H11.2V22H12.8V16H18V14L16,12Z') !important;
-}
-
-/* TITLE BAR -> ICONS -> CREATE GROUP DM */
-
-.icon-22AiRD[name="Nova_ChatNew"] path {
-	d: path('M8 10H5V7H3v3H0v2h3v3h2v-3h3v-2zm10 1c1.66 0 2.99-1.34 2.99-3S19.66 5 18 5c-.32 0-.63.05-.91.14.57.81.9 1.79.9 2.86s-.34 2.04-.9 2.86c.28.09.59.14.91.14zm-5 0c1.66 0 2.99-1.34 2.99-3S14.66 5 13 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm6.62 2.16c.83.73 1.38 1.66 1.38 2.84v2h3v-2c0-1.54-2.37-2.49-4.38-2.84zM13 13c-2 0-6 1-6 3v2h12v-2c0-2-4-3-6-3z') !important;
-}
-
-/* TITLE BAR -> ICONS -> ADD FRIENDS TO DM */
-
-.icon-22AiRD[name="Nova_UserAdd"] path {
-	d: path('M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z') !important;
-}
-
-/* TITLE BAR -> ICONS -> UNMUTED CHANNEL */
-
-.icon-22AiRD[name="Nova_Bell"] path {
-	d: path('M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z') !important;
-}
-
-/* TITLE BAR -> ICONS -> MUTED CHANNEL */
-
-.icon-22AiRD[name="Nova_BellOff"] path {
-	d: path('M20 18.69L7.84 6.14 5.27 3.49 4 4.76l2.8 2.8v.01c-.52.99-.8 2.16-.8 3.42v5l-2 2v1h13.73l2 2L21 19.72l-1-1.03zM12 22c1.11 0 2-.89 2-2h-4c0 1.11.89 2 2 2zm6-7.32V11c0-3.08-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68c-.15.03-.29.08-.42.12-.1.03-.2.07-.3.11h-.01c-.01 0-.01 0-.02.01-.23.09-.46.2-.68.31 0 0-.01 0-.01.01L18 14.68z') !important;
-}
-
-/* TITLE BAR -> ICONS -> MEMBER LIST */
-
-.icon-22AiRD[name="Nova_People"] path {
-	d: path('M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z') !important;
 }
 
 .guildsDiscover-oiBX_l {
@@ -294,13 +240,6 @@
 	fill: #fff !important;
 }
 
-
-/*
- *
- *	CREATE/JOIN SERVER
- *
- */
-
 .wrapper-2ZbzR9 {
 	background: transparent !important;
 }
@@ -324,7 +263,6 @@
 	height: auto;
 	margin: 0;
 	padding: 29px 21px;
-	/*line-height: 38px;*/
 	font-size: 17px;
 	font-weight: 600;
 	letter-spacing: .3px;
@@ -377,8 +315,6 @@
 .inviteSplash-40aHus {
 	border-radius: 0 var(--popout-radius) var(--popout-radius) 0;
 }
-
-/* CREATE/JOIN SERVER -> CREATE SERVER */
 
 .slideBody-35BNbg.inner-3wn6Q5 .description-QF3836,
 .slideBody-35BNbg.inner-3wn6Q5 .formWrapper-3fFVPj,
@@ -488,12 +424,6 @@
     background-color: var(--background-primary);
     -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
     box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
-}
-
-/* POPOUT MENUS -> SEARCH OPTIONS */
-
-.popout-3sVMXz.popoutBottom-1YbShG.noShadow-321ZPm[style*="transform: translateX(-50%) translateY(0%) translateZ(0px)"] {
-	/*transform: translateX(-54%) !important;*/
 }
 
 .queryContainer-RKFJW- {
@@ -627,10 +557,6 @@
 	background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij4KICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgPHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4Ii8+CiAgICA8cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJNOSwyIEMxMi44NzEsMiAxNiw1LjEyOSAxNiw5IEMxNiwxMi44NzEgMTIuODcxLDE2IDksMTYgQzUuMTI5LDE2IDIsMTIuODcxIDIsOSBDMiw1LjEyOSA1LjEyOSwyIDksMiBMOSwyIFogTTExLjY5MjUsNS4yNSBMOSw3Ljk0MjUgTDYuMzA3NSw1LjI1IEw1LjI1LDYuMzA3NSBMNy45NDI1LDkgTDUuMjUsMTEuNjkyNSBMNi4zMDc1LDEyLjc1IEw5LDEwLjA1NzUgTDExLjY5MjUsMTIuNzUgTDEyLjc1LDExLjY5MjUgTDEwLjA1NzUsOSBMMTIuNzUsNi4zMDc1IEwxMS42OTI1LDUuMjUgWiIvPgogIDwvZz4KPC9zdmc+) !important;
 }
 
-.popout-3sVMXz.popoutBottom-1YbShG.noShadow-321ZPm[style*="transform: translateX(-50%) translateY(0%) translateZ(0px)"] {
-	/*transform: translateX(-54%) !important;*/
-}
-
 .queryContainer-RKFJW- {
 	background: transparent !important;
 }
@@ -761,12 +687,6 @@
 .messagesPopoutWrap-1MQ1bW {
 	box-shadow: var(--default-shadow) !important;
 }
-
-.backdrop-1wrmKB {
-	/*z-index: 999999;*/
-}
-
-/* POPOUT MENUS -> USER STATUS -> CUSTOM STATUS */
 
 .customStatus-1KPfFb {
 	margin-left: 12px;
