@@ -5,3 +5,6 @@ An actual dark mode for discord.
 
 # Credits:
 fluffy - Revert chat to old one
+
+# Extras:
+If you like the new chat and would like to use it , remove the 2nd `@import` from the DarkDiscord.theme.css file 
