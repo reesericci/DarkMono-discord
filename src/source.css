@@ -1342,3 +1342,31 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
   margin: 0;
   opacity: 1; 
 }
+
+.item-26Dhrx {
+    background-color: var(--background-secondary) !important;
+    color: #f6f6f7;
+    border-color: var(--background-tertiary);
+}
+
+.theme-dark .checked-3_4uQ9 {
+    border-color: #fff;
+    background-color: var(--background-primary);
+}
+
+.theme-dark .paginator-166-09 {
+    background: var(--background-secondary);
+}
+
+.theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .payment-xT17Mq {
+    background-color: var(--background-secondary);
+    color: #b9bbbe;
+}
+
+.theme-dark .expandedInfo-3kfShd {
+    background-color: var(--background-primary);
+}
