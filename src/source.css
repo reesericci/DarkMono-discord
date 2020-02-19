@@ -1378,3 +1378,31 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
     background-image: url(/assets/c486dc6….svg);
     background-color: transparent;
 }
+
+.theme-dark .ctaBar-2UsjF2 {
+    background-color: var(--background-primary);
+    background-image: url(/assets/94ff6fd….svg);
+}
+
+.theme-dark .perk-2WeBWW {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .tierBody-16Chc9 {
+    background-color: var(--background-primary);
+    color: #dcddde;
+}
+
+.theme-dark .tierHeaderLocked-1s2JJz {
+    background-color: black;
+    color: white;
+}
+
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    color: #f6f6f7;
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
+    background-color: var(--background-modifier-hover);
+}
