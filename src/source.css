@@ -1406,3 +1406,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active, .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {
     background-color: var(--background-modifier-hover);
 }
+
+.theme-dark .separator-XqIyoz {
+    background-color: var(--background-tertiary);
+}
