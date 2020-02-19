@@ -1,4 +1,4 @@
-# DarkDiscord - [Download](https://betterdiscord.net/ghdl/?url=https://github.com/morhex/dark-discord/blob/master/DarkDiscord.theme.css)
+# DarkDiscord - [Download](https://betterdiscord.net/ghdl?id=3132)
 An actual dark mode for discord.
 
 <img src="https://i.imgur.com/XjXTKPL.png"/>
