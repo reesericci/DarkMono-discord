@@ -1069,7 +1069,7 @@
     background-color: var(--background-primary);
     position: relative;
     padding: 12px;
-    border-radius: 4px;
+    border-radius: 0px;
 }
 
 .theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
