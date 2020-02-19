@@ -1372,3 +1372,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .theme-dark #MemberCount {
     background: var(--background-secondary);
 }
+
+.unread-1xRYoj {
+    background-color: #ff4e4e;
+    opacity: .9;
+}
