@@ -1385,17 +1385,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
     width: 0;
 }
 
-.scroller-2FKFPG {
-    background-color: var(--background-primary);
-    position: relative;
-    min-height: 0;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    -webkit-box-flex: 1;
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-}
-
 .theme-dark .modalTitle-37O4n6 {
     background-color: var(--background-secondary);
     color: #fff;
