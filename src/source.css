@@ -1301,11 +1301,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
     border-color: var(--background-tertiary);
 }
 
-.theme-dark .checked-3_4uQ9 {
-    border-color: #fff;
-    background-color: var(--background-primary);
-}
-
 .theme-dark .paginator-166-09 {
     background: var(--background-secondary);
 }
