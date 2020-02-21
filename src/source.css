@@ -1411,3 +1411,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
     background-color: var(--background-secondary-alt);
     color: #b9bbbe;
 }
+
+.input-2VB9rf {
+    background-color: var(--background-primary)
+}
