@@ -1296,7 +1296,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
     transform: scale(1) translate(-15px, 15px); } }
 
 .item-26Dhrx {
-    background-color: var(--background-secondary) !important;
+    background-color: var(--background-secondary);
     color: #f6f6f7;
     border-color: var(--background-tertiary);
 }
