@@ -1373,4 +1373,14 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
     opacity: .9;
 }
 
-@import url(https://fluffingtons.github.io/revert-discord/resources/theme.css);
+.toolbar-2bjZV7:before {
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid var(--background-tertiary);
+    bottom: -8px;
+    content: "";
+    height: 0;
+    left: calc(50% - 8px);
+    position: absolute;
+    width: 0;
+}
