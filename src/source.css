@@ -1410,3 +1410,64 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .input-2VB9rf {
     background-color: var(--background-primary)
 }
+
+.theme-dark .footer-2VgWkh {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .modal-yWgWj- {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .footer-2VgWkh {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .item-3T2z1R {
+    border-color: var(--background-tertiary);
+}
+
+.selectorButton-21mL5E {
+    background-color: var(--background-secondary);
+}
+
+.item-3T2z1R:disabled {
+    opacity: .4;
+}
+
+.theme-dark .pageWrapper-1PgVDX {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .card-3DjzTQ, .theme-dark .cardPlaceholder-1zrbbe {
+    background: var(--background-primary);
+}
+
+.theme-dark .card-3DjzTQ:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .searchBox-3Y2Vi7 {
+    background-color: var(--background-tertiary);
+}
+
+.bg-AYqtMd {
+    display: none;
+}
+
+.css-ncjuf0-control {
+    background-color: var(--background-tertiary);
+}
+
+.css-1rckt42-menu { 
+    border-color: black;
+    background-color: var(--background-tertiary);
+}
+
+.css-1rckt42-menu {
+    background-color: var(--background-tertiary);
+}
+
+.css-1wqqa50-container {
+    background-color: var(--background-tertiary);
+}
