@@ -1317,11 +1317,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
     background: var(--background-secondary);
 }
 
-.unread-1xRYoj {
-    background-color: #ff4e4e;
-    opacity: .9;
-}
-
 .toolbar-2bjZV7:before {
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
