@@ -633,7 +633,7 @@
 .userPopout-3XzG_A  {
 	background: var(--background-secondary) !important;
 	box-shadow: var(--default-shadow) !important;
-	border-radius: 0 !important;
+	border-radius: 5px !important;
 	border: none !important;
 }
 
