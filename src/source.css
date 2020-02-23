@@ -1433,3 +1433,24 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .searchBar-3dMhjb {
     background-color: var(--background-dark-tertiary);
 }
+
+.theme-dark .root-1gCeng {
+    border-radius: 5px;
+}
+
+.theme-dark .theme-light .slide-2pHaq5 {
+    border-radius: 5px;
+}
+
+.content-1EtbQh {
+    z-index: 0;
+    background-color: var(--background-dark-primary);
+}
+
+.theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
+    background-image: url(https://i.imgur.com/Ip0IAKx.png),url(https://i.imgur.com/hvo4a8V.png);
+}
+
+.theme-dark .theme-dark .action-1lSjCi, .theme-dark .theme-light .action-1lSjCi {
+    background: var(--background-dark-secondary);
+}
