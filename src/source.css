@@ -1469,3 +1469,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .theme-dark .header-3ZP1MY, .theme-light .header-3ZP1MY {
     color: #7289da !important;
 }
+
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+    background-color: var(--background-secondary);
+}
