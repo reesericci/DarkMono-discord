@@ -1124,7 +1124,7 @@
 .xenoLib-notification-content {
     padding: 12px;
     overflow: hidden;
-    background: black;
+    background: black !important;
     border: 2px solid #121212;
     pointer-events: all;
     position: relative;
