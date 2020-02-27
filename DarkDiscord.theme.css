@@ -1,4 +1,15 @@
-//META{"name":"Dark Discord","description":"An actual dark mode for discord.","author":"zzzmario","version":"1.0"}*//{}
+/**
+
+ * @name Dark Discord
+ * @version 1.0
+ * @description An actual dark mode for discord.
+ * @source https://github.com/zzzmario/dark-discord
+ * @authorId 583062692596547585
+ * @author mario
+ * @donate https://paypal.me/zzzmario
+ * @invite t9CKs9X
+
+**/
 
 @import url(https://zzzmario.github.io/dark-discord/src/source.css);
 @import url(https://fluffingtons.github.io/revert-discord/resources/theme.css);
