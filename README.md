@@ -1,4 +1,4 @@
-# DarkDiscord - ([Download](https://betterdiscord.net/ghdl?id=3132) | [Support Server](https://discord.gg/t9CKs9X))
+# DarkDiscord - ( [Download](https://betterdiscord.net/ghdl?id=3132) | [Support Server](https://discord.gg/t9CKs9X) )
 An actual dark mode for discord.
 
 <img src="https://i.imgur.com/XjXTKPL.png"/>
