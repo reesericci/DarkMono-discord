@@ -924,21 +924,8 @@
 }
 
 .css-181m2lf-menu {
-    top: 100%;
     background-color: var(--background-primary);
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 5px 0px;
-    margin-bottom: -1px;
-    margin-top: -1px;
-    position: absolute;
-    width: 100%;
-    z-index: 1;
-    box-sizing: border-box;
-    color: rgb(246, 246, 247);
-    border-radius: 0px 0px 3px 3px;
-    border-width: 1px;
-    border-style: solid;
     border-color: var(--background-tertiary);
-    border-image: initial;
 }
 
 .container-3PXSwK .notches-1sAcEM {
