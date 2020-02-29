@@ -45,9 +45,7 @@
 
 /* ************************* TEMP FIX ********************** */
 div[class*="preview"] div[class*="message"] > div[class*="container"], div[class*="chatContent"] > div[class*="messagesWrapper"] div[class*="message"] > div[class*="container"] {
-    padding: 0;
     padding-left: 0;
-    padding-right: 10px;
 }
 /* ********************************************************** */
 
