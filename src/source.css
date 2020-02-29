@@ -1459,3 +1459,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
     background-color: var(--background-secondary);
 }
+
+.theme-dark.authBox-hW6HRx {
+    background: var(--background-dark-primary);
+}
