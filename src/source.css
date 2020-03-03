@@ -1491,3 +1491,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .theme-dark .reactionSelected-1pqISm {
     background-color: var(--background-modifier-selected);
 }
+
+/* dateViewer Plugin */
+#dv-mount { 
+    background-color: var(--background-dark-secondary) !important;
+}
