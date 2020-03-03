@@ -1479,3 +1479,15 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .bd-modal-wrapper .footer {
     background-color: var(--background-dark-tertiary);
 }
+
+.theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .sidebar-1-SQro {
+    background: var(--background-secondary);
+}
+
+.theme-dark .reactionSelected-1pqISm {
+    background-color: var(--background-modifier-selected);
+}
