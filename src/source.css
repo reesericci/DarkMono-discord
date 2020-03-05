@@ -1511,3 +1511,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .scrollableContainer-2NUZem {
     background-color: #202020;
 }
+
+.attachPopout-36hjtN {
+    background-color: black;
+}
