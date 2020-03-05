@@ -10,7 +10,6 @@
     --background-modifier-active: rgba(50,50,50,0.24) !important;	
     --background-modifier-selected: rgba(50,50,50,0.32) !important;	
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
-    --channeltextarea-background: #202020 !important;	
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
@@ -1505,3 +1504,10 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     background-color: var(--background-modifier-hover);
 }
 
+.contextMenu-HLZMGh {
+    background-color: black;
+}
+
+.scrollableContainer-2NUZem {
+    background-color: #202020;
+}
