@@ -1500,3 +1500,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode .mentioned-xhSam7:hover {
     background-color: var(--background-mentioned-hover);
 }
+
+.consentCard-1iSxB_ {
+    background-color: var(--background-primary);
+    margin-bottom: 16px;
+}
