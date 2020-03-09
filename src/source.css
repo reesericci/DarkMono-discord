@@ -1515,3 +1515,11 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .attachPopout-36hjtN {
     background-color: black;
 }
+
+.theme-dark .root-1gCeng {
+    background-color: var(--background-dark-primary) !important;
+}
+
+.theme-dark .modal-yWgWj- {
+    background-color: var(--background-dark-primary);
+}
