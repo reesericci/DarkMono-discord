@@ -1530,7 +1530,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 }
 
 div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"] {
-  left: inherit !important;
+  left: inherit;
   margin: 0px;
 }
 
