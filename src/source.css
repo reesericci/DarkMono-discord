@@ -1528,3 +1528,12 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .wrapper-2aW0bm {
     background-color: var(--background-secondary);
 }
+
+div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"] {
+  left: inherit !important;
+  margin: 0px;
+}
+
+.avatar-1BDn8e {
+    left: 20px;
+}
