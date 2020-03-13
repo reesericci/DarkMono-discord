@@ -1530,8 +1530,8 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 }
 
 div[class*="cozyMessage"] > div[class*="contents"] img[class*="avatar"] {
-  left: inherit;
-  margin: 0px;
+  left: inherit !important;
+  margin: 0px !important;
 }
 
 .avatar-1BDn8e {
