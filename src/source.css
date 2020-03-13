@@ -1524,3 +1524,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .theme-dark .modal-yWgWj- {
     background-color: var(--background-dark-primary);
 }
+
+.wrapper-2aW0bm {
+    background-color: var(--background-secondary);
+}
