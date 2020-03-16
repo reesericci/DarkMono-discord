@@ -13,57 +13,8 @@
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
 }
 
-.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-    background-color: var(--background-secondary); !important;
-    border: 4px solid #141414 !important;
-    border-radius: 8px !important;
-}
-
-.scroller-2FKFPG::-webkit-scrollbar-thumb, .scroller-2FKFPG::-webkit-scrollbar-track {
-    background-clip: padding-box !important;
-    border-width: 4px !important;
-    border-style: solid !important;
-    border-radius: 8px !important;
-}
-
-.scroller-2FKFPG .systemPad-3UxEGl::-webkit-scrollbar-thumb ., .scroller-2FKFPG .systemPad-3UxEGl::-webkit-scrollbar-track {
-    background-clip: padding-box !important;
-    border-style: solid !important;
-    border-radius: 8px !important;
-}
-
-.scroller-2FKFPG::-webkit-scrollbar-track {
-    border-width: initial !important;
-}
-
-.scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-track {
-    background-color: transparent !important;
-    border-color: transparent !important;
-}
-
-.scroller-2FKFPG::-webkit-scrollbar-thumb, .scroller-2FKFPG::-webkit-scrollbar-track {
-    background-clip: padding-box !important;
-    border-width: 4px !important;
-    border-style: solid !important;
-    border-radius: 8px !important;
-}
-
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background-color: #242424 !important;
-    border-color: transparent !important;
-}
-
-.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: #242424 !important;
-    border-color: #36393f !important;
-}
-
-.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar {
-    width: 15px !important;
-    height: 15px !important;
-}
-
-.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
     border-color: transparent !important;
 }
 
@@ -71,10 +22,17 @@
     background-color: transparent !important;
 }
 
-.scroller-2FKFPG::-webkit-scrollbar {
-    width: 12px !important;
-    height: 10px !important;
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+    background-color: #111111; !important;
+    border: 4px solid #141414 !important;
+    border-radius: 8px !important;
 }
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: #242424 !important;
+    border-color: transparent; !important;
+}
+
 	
 .videoBackground-3AY_fu, .videoBackgroundTransition-3wpOSl {
     background-color: #000000;
@@ -106,58 +64,6 @@
 .container-xm7Ad0 {
     position: relative;
     background-color: var(--background-primary);
-}
-
-.searchResultsWrap-2DKFzt {
-	background: var(--background-secondary) !important;
-}
-
-.searchResultsWrap-2DKFzt .searchHeader-1l-wpR {
-	background: rgba(255,255,255,0.05) !important;
-	box-shadow: none !important;
-}
-
-.searchResultsWrap-2DKFzt .searchHeader-1l-wpR .totalResults-gxvzgw {
-	opacity: 1;
-}
-
-.searchResultsWrap-2DKFzt .channelName-1QajIf {
-	background-color: var(--side-color) !important;
-}
-
-.searchResult-3pzFAB:before,
-.searchResult-3pzFAB:after {
-	background: transparent !important;
-}
-
-.searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA,
-.searchResult-3pzFAB.expanded-v2Szsz {
-	background: transparent !important;
-	border-radius: 0;
-	border: none !important;
-}
-
-.searchResult-3pzFAB,
-.searchResult-3pzFAB.expanded-v2Szsz {
-	border-bottom: 1px solid rgba(255,255,255,.1) !important;
-}
-
-.searchResult-3pzFAB .searchResultMessage-2VxO12.before-1x1q5S {
-	opacity: 0.15 !important;
-}
-
-.searchResult-3pzFAB .hit-NLlWXA {
-	box-shadow: none !important;
-}
-
-.searchBarIcon-1J6sKG {
-	margin: 6px 0 !important;
-}
-
-.searchBarIcon-1J6sKG .icon-3cZ1F_.iconSearchBarEyeGlass-2n38zb,
-.searchBarIcon-1J6sKG .icon-3cZ1F_.iconSearchBarClear-2DW-Kr {
-	background-position: 50%;
-	background-size: 100%;
 }
 
 .searchBarIcon-1J6sKG .icon-3cZ1F_.visible-3V0mGj {
@@ -335,13 +241,6 @@
 
 .themedPopout-25DgLi .header-SsaQ8X .title-23FrqZ {
 	color: #b2b2b2;
-}
-
-.messageGroupWrapper-o-Zw7G {
-	background: transparent !important;
-	border-radius: 0;
-	border: none !important;
-	border-bottom: 1px solid #444 !important;
 }
 
 .theme-dark .header-ykumBX {
@@ -1527,4 +1426,47 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 
 .wrapper-2aW0bm {
     background-color: var(--background-secondary);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+    background-color: var(--background-secondary);
+    border: none;
+    padding: 20px 0px 20px 20px;
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {
+    background-color: var(--background-tertiary);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
+    background-color: black;
+}
+
+.theme-dark .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug {
+    background-color: transparent !important;
+}
+
+.messagesPopoutWrap-1MQ1bW {
+    border-radius: 5px !important;
+    border: 1px solid black !important;
+}
+
+.theme-dark .tierBody-x9kBBp {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .tierHeaderLocked-1a2opw {
+    background-color: var(--background-tertiary);
+}
+
+.theme-dark .background-3xPPFc {
+    color: var(--background-tertiary);
+}
+
+.theme-dark .tierInProgress-3mBoXq {
+    background-color: var(--background-tertiary);
 }
