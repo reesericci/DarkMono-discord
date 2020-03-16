@@ -1484,3 +1484,8 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .searchResult-3pzFAB .messageGroupCozy-1BZuO8 {
     padding-top: 10px;
 }
+
+.theme-dark .attachment-33OFj0, .theme-dark .invite-18yqGF {
+    border-color: var(--background-modifier-accent);
+    background-color: var(--background-modifier-hover);
+}
