@@ -1520,7 +1520,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 }
 
 .theme-dark .button-2CgfFz {
-    background-color: var(--background-primar);
+    background-color: var(--background-primary);
     -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 var(--background-tertiary);
     box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 var(--background-tertiary);
 }
