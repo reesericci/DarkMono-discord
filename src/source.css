@@ -1481,17 +1481,17 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     background-color: var(--background-modifier-hover);
 }
 
-.positionTop-3e-X1p .autocompleteHeaderBackground-30T70q {
+.autocompleteHeaderBackground-30T70q {
     border-radius: 5px 5px 0px 0px;
     background-color: var(--background-secondary) !important;
 }
 
-.positionTop-3e-X1p .sectionTag-pXyto9 {
+.sectionTag-pXyto9 {
     border-radius: 0px;
     background-color: var(--background-primary) !important;
 }
 
-.theme-dark .row-rrHHJU.selected-1pIgLL {
+.row-rrHHJU.selected-1pIgLL {
     background: -webkit-gradient(linear,left top,right top,from(var(--background-modifier-accent)),to(transparent));
     background: linear-gradient(90deg,var(--background-modifier-accent),transparent);
 }
