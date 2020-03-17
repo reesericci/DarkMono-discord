@@ -1492,6 +1492,6 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 }
 
 .row-rrHHJU.selected-1pIgLL {
-    background: -webkit-gradient(linear,left top,right top,from(var(--background-modifier-accent)),to(transparent));
-    background: linear-gradient(90deg,var(--background-modifier-accent),transparent);
+    background: -webkit-gradient(linear,left top,right top,from(var(--background-modifier-accent)),to(transparent)) !important;
+    background: linear-gradient(90deg,var(--background-modifier-accent),transparent) !important;
 }
