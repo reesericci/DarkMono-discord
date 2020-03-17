@@ -1495,3 +1495,16 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     background: -webkit-gradient(linear,left top,right top,from(var(--background-modifier-accent)),to(transparent)) !important;
     background: linear-gradient(90deg,var(--background-modifier-accent),transparent) !important;
 }
+
+.theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .autocompleteShadow-iiGWFU {
+    -webkit-box-shadow: 0 2px 10px 0 var(--background-tertiary), 0 0 0 1px var(--background-tertiary);
+    box-shadow: 0 2px 10px 0 var(--background-tertiary), 0 0 0 1px var(--background-tertiary);
+}
+
+.sectionTag-pXyto9 {
+    border-radius: 0 0 5px 5px !important;
+}
+
+.autocompleteHeaderBackground-30T70q {
+    border-radius: 5px 5px 0 0 !important;
+}
