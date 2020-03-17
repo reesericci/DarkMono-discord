@@ -1508,3 +1508,19 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .autocompleteHeaderBackground-30T70q {
     border-radius: 5px 5px 0 0 !important;
 }
+
+.cardPrimaryEditable-3KtE4g {
+    background: var(--background-secondary);
+}
+
+.theme-dark .button-2CgfFz:hover {
+    background-color: VAR(--background-secondary);
+    -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 var(--background-tertiary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 var(--background-tertiary);
+}
+
+.theme-dark .button-2CgfFz {
+    background-color: var(--background-primary);
+    -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 var(--background-tertiary);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 var(--background-tertiary);
+}
