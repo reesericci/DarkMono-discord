@@ -1524,3 +1524,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 var(--background-tertiary);
     box-shadow: 0 0 0 1px var(--background-tertiary), 0 1px 5px 0 var(--background-tertiary);
 }
+
+.theme-dark .elevationHigh-1PneE4 {
+    background-color: black !important;
+}
