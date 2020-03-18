@@ -1046,7 +1046,7 @@
   visibility: visible !important;
   font-size: 17px;
   font-weight: 700;
-  color: var(--nox-white);
+  color: white;
   text-align: center; }
 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before,
@@ -1055,28 +1055,33 @@
   visibility: hidden !important; }
 
 html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
-.platform-win.theme-light #user-settings .item-PXvHYJ:nth-of-type(21) {
+.platform-win.theme-light #user-settings .item-PXvHYJ:nth-of-type(20) {
   transition: 200ms cubic-bezier(0, 0, 0, 1);
-  box-shadow: 0 0 0 4px var(--nox-level3), 0 0 0 6px #F04747; }
-
-html:not(.platform-win).theme-light #user-settings .item-PXvHYJ.selected-3s45Ha:nth-of-type(19),
-.platform-win.theme-light #user-settings .item-PXvHYJ.selected-3s45Ha:nth-of-type(21) {
-  background: #F04747;
-  transition: 300ms cubic-bezier(0, 0, 0, 1) !important;
-  box-shadow: 0 0 0 0px var(--nox-level3), 0 0 0 3px #F04747; }
-
-html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):active,
-.platform-win.theme-light #user-settings .item-PXvHYJ:nth-of-type(21):active {
-  background: #F04747; }
-
-html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):hover,
-.platform-win.theme-light #user-settings .item-PXvHYJ:nth-of-type(21):hover {
-  box-shadow: 0 0 0 0px var(--nox-level3), 0 0 0 3px #F04747;
-  transition: 100ms cubic-bezier(0, 0, 0, 1) !important; }
+  box-shadow: 0 0 0 1px white, 0 0 0 4px red; 
+}
 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {
   background-size: 30%;
-  background-color: var(--background-secondary) !important; }
+  background-color: var(--background-secondary) !important; 
+}
+
+.theme-light {
+    --interactive-normal: white;
+    --interactive-hover: white;
+    --interactive-active: white;
+    --header-primary: white;
+    --text-normal: white;
+    --text-hover: white;
+}
+
+.theme-light #bd-settings-sidebar .ui-tab-bar-item {
+    color: white;
+}
+
+.theme-light #bd-settings-sidebar .ui-tab-bar-item:hover {
+    background-color: var(--background-modifier-hover);
+    color: white;
+}
 
 /*/LIGHT MODE OVERRIDE*/
 .modal-3HD5ck a,
