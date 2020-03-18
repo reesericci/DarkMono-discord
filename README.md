@@ -1,4 +1,4 @@
-# DarkDiscord
+# Dark Discord
 An actual dark mode for discord.
 
 # Downloads
