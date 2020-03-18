@@ -371,6 +371,7 @@
 .theme-dark .quickSelectPopout-X1hvgV {
     background: var(--background-secondary);
     color: #ffffff;
+    border: 1px solid black;
 }
 
 .search-bar-icon .icon.visible {
