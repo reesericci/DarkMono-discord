@@ -1528,3 +1528,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .theme-dark .elevationHigh-1PneE4 {
     background-color: black !important;
 }
+
+.unread-1xRYoj {
+    background-color: black;
+}
