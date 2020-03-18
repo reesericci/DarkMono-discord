@@ -16,4 +16,4 @@ An actual dark mode for discord.
 fluffy - Revert chat to old one
 
 # Extras:
-If you like the new chat and would like to use it , remove the second `@import` from the th file 
+If you like the new chat and would like to use it , remove the second `@import` from the the file 
