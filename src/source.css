@@ -1526,3 +1526,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .theme-dark .quickSelectPopoutOption-opKBx9:hover {
     background-color: var(--background-modifier-hover);
 }
+
+.button-1I8KM5:hover {
+    background-color: var(--background-modifier-selected);
+}
