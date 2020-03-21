@@ -1613,7 +1613,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 }
 
 .ace-monokai .ace_marker-layer .ace_selection {
-    background: var(--background-modifier-selected) !important;
+    background: rgba(255,255,255,0.2) !important;
 }
 
 .ace-monokai .ace_marker-layer .ace_selected-word {
