@@ -1557,3 +1557,8 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .theme-dark .progress-1IcQ3A {
     background-color: #252525;
 }
+
+.theme-dark .item-3eFBNF {
+    -webkit-box-shadow: inset 0 -1px 0 0 var(--background-modifier-accent);
+    box-shadow: inset 0 -1px 0 0 var(--background-modifier-accent);
+}
