@@ -1633,7 +1633,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 
 .ace-monokai {
     border-radius: 2px 2px 0 0 !important;
-    background-color: var(--background-tertiary) !important;
+    background-color: var(--background-secondary) !important;
 }
 
 .contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
