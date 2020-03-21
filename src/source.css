@@ -1539,3 +1539,8 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     -webkit-box-shadow: 0 0 0 1px black, 0 2px 10px 0 rgba(0,0,0,.2);
     box-shadow: 0 0 0 1px black, 0 2px 10px 0 rgba(0,0,0,.2);
 }
+
+.theme-dark .card-FDVird:before {
+    background-color: var(--background-secondary);
+    border-color: black !important;
+}
