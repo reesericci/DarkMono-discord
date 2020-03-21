@@ -1549,3 +1549,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     -webkit-box-shadow: 0 1px 0 0 var(--background-tertiary);
     box-shadow: 0 1px 0 0 var(--background-tertiary);
 }
+
+.theme-dark .bar-2Qqk5Z {
+    background: #292929;
+}
