@@ -1665,6 +1665,10 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     height: 12px;
 }
 
+.ace_scrollbar-v {
+    width: 12px !important;
+}
+
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button, #bd-customcss-attach-controls button, #bd-customcss-attach-controls .help-text .inline {
     background: var(--background-primary) !important;
     border: 1px solid #181818 !important;
