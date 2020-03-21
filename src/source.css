@@ -1546,8 +1546,8 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 }
 
 .theme-dark .game-1ipmAa {
-    -webkit-box-shadow: 0 1px 0 0 var(--background-tertiary);
-    box-shadow: 0 1px 0 0 var(--background-tertiary);
+    -webkit-box-shadow: 0 1px 0 0 var(--background-modifier-accent);
+    box-shadow: 0 1px 0 0 var(--background-modifier-accent);
 }
 
 .theme-dark .bar-2Qqk5Z {
@@ -1582,4 +1582,8 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 
 .theme-dark .bda-slist .bda-header {
     border-bottom-color: var(--background-modifier-accent);
+}
+
+.themeDefault-24hCdX {
+    background-color: #292929;
 }
