@@ -1587,3 +1587,83 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .themeDefault-24hCdX {
     background-color: #292929;
 }
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: var(--background-primary);
+}
+
+.ace-monokai .ace_gutter {
+    background: var(--background-tertiary) !important;
+    color: #8F908A;
+}
+
+.ace_scroller {
+    background-color: var(--background-secondary) !important;
+}
+
+.theme-dark .applicationStreamingPreviewWrapper-8QqvVY {
+    background-color: var(--background-secondary) !important;
+}
+
+.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: var(--background-tertiary) !important;
+    color: #fff;
+    border: 0;
+    box-shadow: 0 1px 0 0 var(--background-tertiary) inset !important;
+}
+
+.ace-monokai .ace_marker-layer .ace_selection {
+    background: var(--background-modifier-selected) !important;
+}
+
+.ace-monokai .ace_marker-layer .ace_selected-word {
+    border: 1px solid rgba(255,255,255,0.3) !important;
+    background-color: var(--background-modifier-accent) !important;
+}
+
+.bd-customcss-detach-controls-button .btn {
+    border-left: 1px solid red !important;
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: var(--background-primary) !important;
+}
+
+.ace-monokai {
+    border-radius: 5px 5px 0 0 !important;
+    background-color: var(--background-secondary) !important;
+}
+
+.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    border-radius: 0 0 5px 5px !important;
+}
+
+.ace-monokai .ace_storage.ace_type, .ace-monokai .ace_support.ace_class, .ace-monokai .ace_support.ace_type {
+    font-style: normal !important;
+}
+
+.theme-dark .closeButton-1tv5uR {
+    border-color: #292929;
+}
+
+.theme-dark .closeButton-1tv5uR:hover {
+    background-color: #292929;
+}
+
+#app-mount .ace_scrollbar-h::-webkit-scrollbar-thumb, #app-mount .ace_scrollbar-v::-webkit-scrollbar-thumb {
+	background: #292929;
+	border-radius: 5px;
+}
+#app-mount .ace_scrollbar-h::-webkit-scrollbar-track, #app-mount .ace_scrollbar-v::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+#app-mount .ace_scrollbar::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, #bd-customcss-attach-controls button, #bd-customcss-attach-controls .help-text .inline {
+    background: var(--background-primary) !important;
+    border: 1px solid #181818 !important;
+}
