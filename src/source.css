@@ -1599,6 +1599,8 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 
 .ace_scroller {
     background-color: var(--background-secondary) !important;
+    bottom: 12px !important;
+    right: 12px !important;
 }
 
 .theme-dark .applicationStreamingPreviewWrapper-8QqvVY {
