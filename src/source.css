@@ -1530,3 +1530,12 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .button-1I8KM5:hover {
     background-color: var(--background-modifier-selected);
 }
+
+.theme-dark .addGamePopout-2RY8Ju {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .elevationBorderHigh-2WYJ09 {
+    -webkit-box-shadow: 0 0 0 1px black, 0 2px 10px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 0 1px black, 0 2px 10px 0 rgba(0,0,0,.2);
+}
