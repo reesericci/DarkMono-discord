@@ -1669,3 +1669,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     background: var(--background-primary) !important;
     border: 1px solid #181818 !important;
 }
+
+.theme-dark .bda-slist .bda-footer {
+    border-top-color: var(--background-modifier-accent);
+}
