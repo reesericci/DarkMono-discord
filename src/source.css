@@ -1,7 +1,4 @@
-:root { 	
-    --background-dark-primary: #141414 !important;	
-    --background-dark-secondary: #111111 !important;	
-    --background-dark-tertiary: #0c0c0c !important;	
+:root {
     --background-primary: #141414 !important;	
     --background-secondary: #111111 !important;	
     --background-tertiary: #0c0c0c !important;	
@@ -1278,24 +1275,12 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: #7289da !important;
 }
 
-.searchBar-3dMhjb {
-    background-color: var(--background-dark-tertiary);
-}
-
 .theme-dark .root-1gCeng {
     border-radius: 5px;
 }
 
 .theme-dark .theme-light .slide-2pHaq5 {
     border-radius: 5px;
-}
-
-.content-1EtbQh {
-    background-color: var(--background-dark-primary);
-}
-
-.theme-dark .theme-dark .action-1lSjCi, .theme-dark .theme-light .action-1lSjCi {
-    background: var(--background-dark-secondary);
 }
 
 .toast, .bd-toast {
@@ -1310,24 +1295,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-secondary);
 }
 
-.theme-dark.authBox-hW6HRx {
-    background: var(--background-dark-primary);
-}
-
 .theme-dark .root-1gCeng {
     background-color: var(--background-primary) !important;
-}
-
-.bd-modal-wrapper .bd-modal-body {
-    background-color: var(--background-dark-secondary);
-}
-
-.bd-modal-wrapper .header {
-    background-color: var(--background-dark-tertiary);
-}
-
-.bd-modal-wrapper .footer {
-    background-color: var(--background-dark-tertiary);
 }
 
 .theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
@@ -1340,10 +1309,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .theme-dark .reactionSelected-1pqISm {
     background-color: var(--background-modifier-selected);
-}
-
-#dv-mount { 
-    background-color: var(--background-dark-secondary) !important;
 }
 
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode .mentioned-xhSam7:hover {
@@ -1395,14 +1360,6 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 
 .attachPopout-36hjtN {
     background-color: black;
-}
-
-.theme-dark .root-1gCeng {
-    background-color: var(--background-dark-primary) !important;
-}
-
-.theme-dark .modal-yWgWj- {
-    background-color: var(--background-dark-primary);
 }
 
 .wrapper-2aW0bm {
