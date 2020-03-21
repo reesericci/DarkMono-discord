@@ -1630,12 +1630,12 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 }
 
 .ace-monokai {
-    border-radius: 5px 5px 0 0 !important;
+    border-radius: 2px 2px 0 0 !important;
     background-color: var(--background-secondary) !important;
 }
 
 .contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
-    border-radius: 0 0 5px 5px !important;
+    border-radius: 0 0 2px 2px !important;
 }
 
 .ace-monokai .ace_storage.ace_type, .ace-monokai .ace_support.ace_class, .ace-monokai .ace_support.ace_type {
