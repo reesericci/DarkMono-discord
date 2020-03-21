@@ -1579,3 +1579,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     -webkit-box-shadow: inset 0 -1px 0 var(--background-modifier-accent);
     box-shadow: inset 0 -1px 0 var(--background-modifier-accent);
 }
+
+.theme-dark .bda-slist .bda-header {
+    border-bottom-color: var(--background-modifier-accent);
+}
