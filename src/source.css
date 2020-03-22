@@ -1642,3 +1642,11 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .jumpToPresentBar-9P20AM {
     background-color: rgba(0,0,0,.9);
 }
+
+.searchBar-3dMhjb {
+    background-color: var(--background-tertiary) !important;
+}
+
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
+    background: #292929 !important;
+}
