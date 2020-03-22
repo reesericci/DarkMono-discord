@@ -1638,3 +1638,7 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 .theme-dark .bda-slist .bda-footer {
     border-top-color: var(--background-modifier-accent);
 }
+
+.jumpToPresentBar-9P20AM {
+    background-color: rgba(0,0,0,.9);
+}
