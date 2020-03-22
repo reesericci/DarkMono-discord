@@ -1,4 +1,7 @@
 :root {
+    --background-dark-primary: #141414 !important;		
+    --background-dark-secondary: #111111 !important;		
+    --background-dark-tertiary: #0c0c0c !important;	
     --background-primary: #141414 !important;	
     --background-secondary: #111111 !important;	
     --background-tertiary: #0c0c0c !important;	
@@ -1643,10 +1646,46 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
     background-color: rgba(0,0,0,.9);
 }
 
-.searchBar-3dMhjb {
-    background-color: var(--background-tertiary) !important;
-}
-
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
     background: #292929;
 }
+
+.searchBar-3dMhjb {	
+    background-color: var(--background-dark-tertiary);	
+}
+
+.content-1EtbQh {	
+    background-color: var(--background-dark-primary);	
+}	
+
+.theme-dark .theme-dark .action-1lSjCi, .theme-dark .theme-light .action-1lSjCi {	
+    background: var(--background-dark-secondary);	
+}	
+
+.theme-dark.authBox-hW6HRx {	
+    background: var(--background-dark-primary);	
+}
+
+.bd-modal-wrapper .bd-modal-body {	
+    background-color: var(--background-dark-secondary);	
+}	
+
+.bd-modal-wrapper .header {	
+    background-color: var(--background-dark-tertiary);	
+}	
+
+.bd-modal-wrapper .footer {	
+    background-color: var(--background-dark-tertiary);	
+}	
+
+#dv-mount { 	
+    background-color: var(--background-dark-secondary) !important;	
+}
+
+.theme-dark .root-1gCeng {	
+    background-color: var(--background-dark-primary) !important;	
+}	
+
+.theme-dark .modal-yWgWj- {	
+    background-color: var(--background-dark-primary);	
+}	
