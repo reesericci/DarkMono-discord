@@ -12,6 +12,14 @@
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
 }
 
+#user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child::before {
+  content: "Dark Discord 1.0";
+  display: block;
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--text-muted);
+}
+
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background-color: #242424 !important;
     border-color: transparent !important;
