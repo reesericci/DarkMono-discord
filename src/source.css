@@ -12,14 +12,6 @@
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
 }
 
-#user-settings nav[class^="sidebar-"] > div > div[class^="info"]:last-child::before {
-  content: "Dark Discord 1.0";
-  display: block;
-  font-size: 12px;
-  line-height: 16px;
-  color: var(--text-muted);
-}
-
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background-color: #242424 !important;
     border-color: transparent !important;
@@ -1699,4 +1691,20 @@ div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > spa
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled {
     background-color: #292929;
+}
+
+.theme-dark .auditLog-3jNbM6 {
+    border-color: var(--background-modifier-accent);
+}
+
+.theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN {
+    background-color: var(--background-modifier-active);
+}
+
+.theme-dark .headerExpanded-CUEwZ5 {
+    background-color: var(--background-modifier-selected);
+}
+
+.theme-dark .changeDetails-bk98pu {
+    background-color: var(--background-modifier-hover);
 }
