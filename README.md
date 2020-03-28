@@ -10,7 +10,7 @@ An actual dark mode for discord.
 
 # Support 
 - [Support Server](https://discord.gg/6kB6hFJ)
-- mario#9999 
+- undefined#9999 
 
 # Credits:
 fluffy - Revert chat to old one
