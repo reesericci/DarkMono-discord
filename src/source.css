@@ -837,18 +837,7 @@
 }
 
 .toast {
-    animation: toast-up .3s ease;
-    transform: translateY(-10px);
-    background: var(--background-tertiary);
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
-    font-weight: 500;
-    color: #fff;
-    user-select: text;
-    font-size: 14px;
-    opacity: 1;
-    margin-top: 10px;
+    background: var(--background-tertiary) !important;
 }
 
 .container-3baos1, .container-3baos1 .avatar-SmRMf2 {
