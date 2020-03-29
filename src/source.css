@@ -1697,3 +1697,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .changeDetails-bk98pu {
     background-color: var(--background-modifier-hover);
 }
+
+.BE-badge.BE-badge-mini:last-of-type {
+    margin-right: 2px !important;
+}
