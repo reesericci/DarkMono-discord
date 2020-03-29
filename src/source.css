@@ -1333,28 +1333,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     margin-bottom: 16px;
 }
 
-div[class*="message"] img[src*="583062692596547585"] ~ h2[class^="header"] > span[class*="timestamp"]::before {
-  margin-right: .3rem;
-  top: -.1rem;
-  position: relative;
-  font-size: .625rem;
-  font-weight: 500;
-  height: 1.28rem;
-  padding: .072rem .275rem;
-  margin-top: .075rem;
-  border-radius: 3px;
-  vertical-align: baseline;
-  flex-shrink: 0;
-  line-height: 1.3;
-  content: "dev";
-  text-transform: uppercase;
-  background-color: #7289da;
-  color: #fff;
-  pointer-events: none;
-  user-select: none;
-  text-decoration: none;
-}
-
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
     background-color: var(--background-modifier-selected);
 }
