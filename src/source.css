@@ -1719,3 +1719,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .bd-search-wrapper {
     background-color: var(--background-modifier-active);
 }
+
+.theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4 {
+    background-color: var(--background-secondary) !important;
+}
