@@ -10,6 +10,7 @@
     --background-modifier-active: rgba(50,50,50,0.24) !important;	
     --background-modifier-selected: rgba(50,50,50,0.32) !important;	
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
+    --bd-blue: #7289da !important;
 }
 
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
@@ -1708,4 +1709,13 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .theme-dark .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK, .theme-light .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK {
     border-top-color: black;
+}
+
+.theme-dark .bd-addon-list .bd-addon-card {
+    background-color: var(--background-modifier-hover);
+    border-color: var(--background-modifier-active);
+}
+
+.bd-search-wrapper {
+    background-color: var(--background-modifier-active);
 }
