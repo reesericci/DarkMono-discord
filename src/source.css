@@ -1701,3 +1701,11 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .BE-badge.BE-badge-mini:last-of-type {
     margin-right: 2px !important;
 }
+
+.theme-dark .tooltipGrey-1hnvTt, .theme-light .tooltipGrey-1hnvTt {
+    background-color: black;
+}
+
+.theme-dark .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK, .theme-light .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK {
+    border-top-color: black;
+}
