@@ -13,7 +13,7 @@ An actual dark mode for discord.
 - mario#9999 
 
 # Notes:
-If anything about chat is broken , its most likely the revert theme so follow the instructions on the last line and remove the import , if the issue still persists contact me in my support server or add me on discord, if you really like the revert theme and it is broken, contact `fluffy#0404` for support.
+If anything about chat is broken , its most likely the revert theme so follow the instructions on the last line and remove the import, if the issue still persists contact me in my support server or add me on discord, if you really like the revert theme and it is broken, contact `fluffy#0404` for support.
 
 # Credits:
 fluffy - Revert chat to old one
