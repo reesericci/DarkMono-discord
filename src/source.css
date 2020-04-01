@@ -1727,3 +1727,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:disabled {
     background-color: var(--background-tertiary);
 }
+
+.typingindicator-guild, .typingindicator-dms, .typingindicator-folder {
+    background-color: var(--background-floating);
+    box-shadow: none;
+}
