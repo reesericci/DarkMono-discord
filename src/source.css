@@ -1742,3 +1742,11 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .flowerStar-1GeTsn path {
 	fill: #292929 !important;
 }
+
+.centerButton-3CaNcJ:hover {
+    background: var(--background-modifier-accent);
+}
+
+.centerButton-3CaNcJ {
+    background: var(--background-modifier-active);
+}
