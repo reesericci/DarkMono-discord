@@ -1750,3 +1750,16 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .centerButton-3CaNcJ {
     background: var(--background-modifier-active);
 }
+
+.powercord-toast .header {
+    background-color: var(--background-secondary);
+}
+
+.powercord-toast {
+    background-color: var(--background-primary);
+}
+
+.powercord-toast .contents .inner {
+    background-color: var(--background-tertiary);
+    border: 2px solid var(--background-secondary);
+}
