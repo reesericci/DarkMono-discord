@@ -1741,10 +1741,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     box-shadow: 0 2px 10px 0 var(--background-tertiary), 0 0 0 1px var(--background-tertiary);
 }
 
-.flowerStar-1GeTsn path {
-	fill: #292929 !important;
-}
-
 .centerButton-3CaNcJ:hover {
     background: var(--background-modifier-accent);
 }
