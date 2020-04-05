@@ -1765,3 +1765,37 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-tertiary);
     border: 2px solid var(--background-secondary);
 }
+
+
+#permissions-modal-wrapper .role-side {
+    background: var(--background-secondary);
+}
+
+#permissions-modal-wrapper .header {
+    background-color: var(--background-primary);
+}
+
+#permissions-modal-wrapper .perm-side {
+    background-color: var(--background-primary);
+}
+
+#permissions-modal-wrapper #permissions-modal {
+    border: none;
+    box-shadow: none;
+}
+
+#permissions-modal-wrapper .role-item.selected {
+    background-color: var(--background-modifier-active);
+}
+
+#permissions-modal-wrapper .role-item:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+#permissions-modal-wrapper .perm-item {
+    box-shadow: inset 0 -1px 0 var(--background-modifier-active);
+}
+
+.perm-scroller::-webkit-scrollbar-thumb {
+	background-color: #292929 !important;
+}
