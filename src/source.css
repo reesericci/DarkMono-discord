@@ -1742,7 +1742,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .centerButton-3CaNcJ:hover {
-    background: var(--background-modifier-accent);
+    background: var(--background-modifier-selected);
 }
 
 .centerButton-3CaNcJ {
