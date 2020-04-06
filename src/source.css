@@ -1795,3 +1795,27 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .perm-scroller::-webkit-scrollbar-thumb {
 	background-color: #292929 !important;
 }
+
+.theme-dark .tile-2OwFgW:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .tile-2OwFgW {
+    background-color: var(--background-dark-tertiary);
+}
+
+.scroller-1JpcIc {
+    background-color: var(--background-dark-secondary);
+}
+
+.theme-dark .root-1bFE0x {
+    background-color: var(--background-dark-tertiary);
+}
+
+.theme-dark .bodySection-jqkkIP, .theme-light .bodySection-jqkkIP {
+    background-color: var(--background-dark-tertiary);
+}
+
+.theme-dark .row-1bU71H {
+    background-color: var(--background-dark-tertiary);
+}
