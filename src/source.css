@@ -1819,3 +1819,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .row-1bU71H {
     background-color: var(--background-dark-tertiary);
 }
+
+.theme-dark .streamPreview-2-WUWT {
+    background-color: var(--background-tertiary);
+}
