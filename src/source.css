@@ -1827,3 +1827,11 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .notches-1sAcEM.black-1D3qCv {
     background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23000000'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
 }
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+    background-color: #292929;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+    background-color: var(--background-modifier-accent);
+}
