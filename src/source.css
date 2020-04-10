@@ -1839,3 +1839,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .root-25RxKh {
   background-color: var(--background-primary);
 }
+
+.theme-dark .previewContainer-12UlHl {
+    background-color: var(--background-tertiary);
+}
