@@ -1835,3 +1835,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
     background-color: var(--background-modifier-accent);
 }
+
+.root-25RxKh {
+  background-color: var(--background-primary);
+}
