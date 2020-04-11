@@ -9,6 +9,6 @@ An actual dark mode for discord.
 <img src="https://i.imgur.com/XjXTKPL.png"/>
 
 # Support 
-- [Support Server](https://discord.gg/HHWfdgf)
+- [Support Server](https://discord.gg/7JceW7S)
 - mario#9999 
 
