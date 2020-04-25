@@ -1859,3 +1859,16 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
     background-color: var(--background-secondary);
 }
+
+.inspector-sdLnLS {
+    background-color: var(--background-tertiary);
+}
+
+.navButtonActive-3RPAJy {
+    background-color: var(--background-tertiary);
+}
+
+.emojiItem-14v6tW.emojiItemSelected-1aLkfV {
+    background-color: var(--background-modifier-hover);
+}
+
