@@ -1872,3 +1872,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-modifier-hover);
 }
 
+.theme-dark .footer-2aTx0s {
+    background-color: black;
+}
