@@ -10,5 +10,5 @@ An actual dark mode for discord.
 
 # Support 
 - [Support Server](https://discord.gg/sSeBYs)
-- mario#9999 
+- sin#9999 
 
