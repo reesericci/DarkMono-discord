@@ -972,14 +972,17 @@
     background-color: black;
 }
 
-.userInfoViewing-16kqK3 .flexChild-faoVW3 > div:nth-child(2) .viewBody-2Qz-jg.selectable-x8iAUj {
-    filter: blur(5px);
-    transition: 300ms cubic-bezier(.2, .11, 0, 1);
+#app-mount .standardSidebarView-3F1I7i .payment-info .description-3_Ncsb, 
+#app-mount .standardSidebarView-3F1I7i .paymentSourceRow-3FbcL_ .subText-V8PTt8, 
+#app-mount .standardSidebarView-3F1I7i .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg {
+    transition: all 150ms cubic-bezier(0.550, 0.085, 0.680, 0.530);
+    filter: blur(4px);opacity: .8
 }
-
-.userInfoViewing-16kqK3 .flexChild-faoVW3 > div:nth-child(2) .viewBody-2Qz-jg.selectable-x8iAUj:hover {
-    filter: none;
-    transition: 300ms cubic-bezier(.2, .11, 0, 1);
+#app-mount .standardSidebarView-3F1I7i .payment-info .description-3_Ncsb:hover, 
+#app-mount .standardSidebarView-3F1I7i .paymentSourceRow-3FbcL_ .subText-V8PTt8:hover, 
+#app-mount .standardSidebarView-3F1I7i .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg:hover {
+    transition: all 150ms cubic-bezier(0.55, 0.09, 0.68, 0.53);
+    filter: none;opacity: 1
 }
 
 .xenoLib-notification-content {
