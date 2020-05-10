@@ -10,5 +10,5 @@ An actual dark mode for discord.
 
 # Support 
 - [Support Server](https://discord.gg/sSeBYs)
-- sin#9999 
+- hellbound#9999 
 
