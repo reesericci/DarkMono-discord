@@ -1882,3 +1882,21 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .resultsBlocked-3DOWQ9 {
     background-color: var(--background-tertiary);
 }
+
+.optionContainer-15srkc:hover {
+    background: var(--background-modifier-hover);
+}
+
+.theme-dark .header-2B7Ri8 {
+    background-color: var(--background-secondary);
+}
+.theme-dark .userList-1kLH8B {
+    border-color: var(--background-tertiary);
+}
+.moreUsers-1s5Her {
+    background-color: #292929;
+}
+
+.theme-dark .content-2KAjC9 {
+    background-color: var(--background-primary);
+}
