@@ -1900,3 +1900,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .content-2KAjC9 {
     background-color: var(--background-primary);
 }
+
+.css-1a8reka-control {
+    background-color: var(--background-secondary) !important;
+}
