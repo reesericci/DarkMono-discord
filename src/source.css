@@ -1904,3 +1904,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .css-1a8reka-control {
     background-color: var(--background-secondary) !important;
 }
+
+.css-n57xjs-menu {
+    background-color: var(--background-secondary) !important;
+}
