@@ -1904,10 +1904,20 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .css-1a8reka-control {
     background-color: var(--background-secondary) !important;
+    border-color: var(--background-tertiary);
 }
 
 .css-n57xjs-menu {
     background-color: var(--background-secondary) !important;
     box-shadow: none !important;
     border-color: var(--background-tertiary) !important;
+}
+
+.theme-dark .pageButtonNext-V2kUq0, .theme-dark .pageButtonPrev-1Y-47D {
+    border-color: var(--background-tertiary);
+}
+
+.theme-dark .pageIndicator-1gAbyA {
+    border-color: var(--background-tertiary);
+    color: #dcddde;
 }
