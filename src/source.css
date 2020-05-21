@@ -1939,3 +1939,10 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     border-color: var(--background-tertiary);
     background-color: var(--background-primary);
 }
+
+.styleFlexible-wGDiIL {
+    min-width: 188px;
+    max-width: 320px;
+    background-color: #0c0c0c;
+    border: 1px solid black;
+}
