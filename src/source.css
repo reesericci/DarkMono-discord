@@ -1960,3 +1960,9 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .passthroughSelected-1Eq0Kl {
     background: #292929;
 }
+
+.quickswitcher-3JagVE {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid var(--background-tertiary) !important;
+}
