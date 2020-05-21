@@ -1468,7 +1468,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .elevationHigh-1PneE4 {
-    background-color: black !important;
+    background-color: var(--background-tertiary) !important;
+    border: 1px solid black !important;
 }
 
 .unread-1xRYoj {
