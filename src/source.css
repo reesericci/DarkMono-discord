@@ -1954,4 +1954,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-modifier-active);
 }
 
-
+.theme-dark .passthroughSelected-1Eq0Kl {
+    background: #292929;
+}
