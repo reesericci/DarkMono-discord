@@ -1758,6 +1758,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .powercord-toast {
     background-color: var(--background-primary);
+    border: 1px solid var(--background-tertiary);
 }
 
 .powercord-toast .contents .inner {
