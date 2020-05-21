@@ -1930,3 +1930,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     border-color: var(--background-tertiary);
     background-color: var(--background-secondary);
 }
+
+.theme-dark .overlayToggleIconOn-3UNmty .fill-1ugeBG {
+    fill: #292929;
+}
