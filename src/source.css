@@ -1954,3 +1954,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     box-shadow: none !important;
     border: 1px solid var(--background-tertiary) !important;
 }
+
+.theme-dark .divider-23swzi {
+    background-color: var(--background-modifier-active);
+}
