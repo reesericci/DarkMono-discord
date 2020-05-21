@@ -1872,6 +1872,10 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-tertiary);
 }
 
+.button-F9qN4n {
+    background-color: var(--background-secondary);
+}
+
 .emojiItem-14v6tW.emojiItemSelected-1aLkfV {
     background-color: var(--background-modifier-hover);
 }
@@ -1904,7 +1908,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .css-1a8reka-control {
     background-color: var(--background-secondary) !important;
-    border-color: var(--background-tertiary);
+    border-color: var(--background-tertiary) !important;
 }
 
 .css-n57xjs-menu {
