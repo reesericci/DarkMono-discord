@@ -566,10 +566,10 @@
 }
 
 .theme-dark .root-1gCeng {
-    background-color: var(--background-primary);
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    border: 1px solid var(--background-tertiary);
+    background-color: var(--background-dark-primary) !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid var(--background-dark-tertiary) !important;
 }
 
 .theme-dark .footer-3rDWdC {
@@ -1316,10 +1316,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-secondary);
 }
 
-.theme-dark .root-1gCeng {
-    background-color: var(--background-primary) !important;
-}
-
 .theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
     background-color: var(--background-primary);
 }
@@ -1678,10 +1674,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-dark-secondary) !important;	
 }
 
-.theme-dark .root-1gCeng {	
-    background-color: var(--background-dark-primary) !important;	
-}	
-
 .theme-dark .modal-yWgWj- {	
     background-color: var(--background-dark-primary);	
 }	
@@ -1961,3 +1953,5 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .button-F9qN4n:hover, .keyboard-mode .button-F9qN4n.focused-3ZzkKr {
     background-color: var(--background-modifier-active);
 }
+
+
