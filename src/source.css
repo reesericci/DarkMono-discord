@@ -1934,3 +1934,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .overlayToggleIconOn-3UNmty .fill-1ugeBG {
     fill: #292929;
 }
+
+.theme-dark .gameNameInput-385LoS:focus, .theme-dark .gameNameInput-385LoS:hover {
+    border-color: var(--background-tertiary);
+    background-color: var(--background-primary);
+}
