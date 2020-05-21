@@ -1921,3 +1921,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     border-color: var(--background-tertiary);
     color: #dcddde;
 }
+
+.theme-dark .gemIndicatorContainer-2jdECl {
+    background-color: var(--background-secondary);
+}
