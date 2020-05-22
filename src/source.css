@@ -1958,3 +1958,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .theme-dark .divider-23swzi {
     background-color: var(--background-modifier-active);
 }
+
+.theme-dark .inviteRow-2L02ae:hover {
+    background-color: var(--background-modifier-hover);
+}
