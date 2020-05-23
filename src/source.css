@@ -38,11 +38,11 @@
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background-color: var(--background-secondary-alt) !important;
-    border-color: transparent; !important;
+    border-color: transparent !important;
 }
 
 .scrollableContainer-2NUZem::-webkit-scrollbar-thumb {
-    background-color: transparent; !important;
+    background-color: transparent !important;
     border-color: transparent !important;
 }
 
@@ -60,8 +60,8 @@
 }
 
 .scrollableContainer-2NUZem::-webkit-scrollbar-thumb {
-    background-color: var(--background-secondary); !important;
-    border-color: transparent; !important;
+    background-color: var(--background-secondary) !important;
+    border-color: transparent !important;
 }
 	
 .videoBackground-3AY_fu, .videoBackgroundTransition-3wpOSl {
@@ -1507,11 +1507,11 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .bar-2Qqk5Z {
-    background: #292929;
+    background: var(--background-secondary-alt);
 }
 
 .theme-dark .progress-1IcQ3A {
-    background-color: #252525;
+    background-color: var(--background-secondary-alt);
 }
 
 .theme-dark .item-3eFBNF {
@@ -1520,7 +1520,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .checkbox-1ix_J3 {
-    border-color: #292929;
+    border-color: var(--background-secondary-alt);
 }
 
 .theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
@@ -1541,7 +1541,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .themeDefault-24hCdX {
-    background-color: #292929;
+    background-color: var(--background-secondary-alt);
 }
 
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
@@ -1601,15 +1601,15 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .closeButton-1tv5uR {
-    border-color: #292929;
+    border-color: var(--background-secondary-alt);
 }
 
 .theme-dark .closeButton-1tv5uR:hover {
-    background-color: #292929;
+    background-color: var(--background-secondary-alt);
 }
 
 #app-mount .ace_scrollbar-h::-webkit-scrollbar-thumb, #app-mount .ace_scrollbar-v::-webkit-scrollbar-thumb {
-	background: #292929;
+	background: var(--background-secondary-alt);
 	border-radius: 5px;
 }
 #app-mount .ace_scrollbar-h::-webkit-scrollbar-track, #app-mount .ace_scrollbar-v::-webkit-scrollbar-track {
@@ -1643,7 +1643,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
-    background: #292929;
+    background: var(--background-secondary-alt);
 }
 
 .searchBar-3dMhjb {	
@@ -1683,7 +1683,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }	
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled {
-    background-color: #292929;
+    background-color: var(--background-secondary-alt);
 }
 
 .theme-dark .auditLog-3jNbM6 {
@@ -1795,7 +1795,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .perm-scroller::-webkit-scrollbar-thumb {
-	background-color: #292929 !important;
+	background-color: var(--background-secondary-alt) !important;
 }
 
 .theme-dark .tile-2OwFgW:hover {
@@ -1831,7 +1831,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV {
-    background-color: #292929;
+    background-color: var(--background-secondary-alt);
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
@@ -1897,7 +1897,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     border-color: var(--background-tertiary);
 }
 .moreUsers-1s5Her {
-    background-color: #292929;
+    background-color: var(--background-secondary-alt);
 }
 
 .theme-dark .content-2KAjC9 {
@@ -1934,7 +1934,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .overlayToggleIconOn-3UNmty .fill-1ugeBG {
-    fill: #292929;
+    fill: var(--background-secondary-alt);
 }
 
 .theme-dark .gameNameInput-385LoS:focus, .theme-dark .gameNameInput-385LoS:hover {
@@ -1947,7 +1947,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .passthroughSelected-1Eq0Kl {
-    background: #292929;
+    background: var(--background-secondary-alt);
 }
 
 .quickswitcher-3JagVE {
