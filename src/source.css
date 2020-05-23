@@ -31,8 +31,8 @@
 }
 
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-    background-color: var(--background-secondary); !important;
-    border: 4px solid var(--background-primary); !important;
+    background-color: var(--background-secondary) !important;
+    border: 4px solid var(--background-primary) !important;
     border-radius: 8px !important;
 }
 
