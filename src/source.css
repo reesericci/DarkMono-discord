@@ -1353,7 +1353,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .scrollableContainer-2NUZem {
-    background-color: #202020;
+    background-color: var(--background-secondary-alt);
 }
 
 .attachPopout-36hjtN {
