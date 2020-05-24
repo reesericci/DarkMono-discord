@@ -9,6 +9,6 @@ An actual dark mode for discord.
 <img src="https://i.imgur.com/XjXTKPL.png"/>
 
 # Support 
-- [Support Server](https://discord.gg/sSeBYs)
+- [Support Server](https://discord.gg/pCc7q4Z)
 - hellbound#9999 
 
