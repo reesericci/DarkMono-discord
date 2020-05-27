@@ -1351,7 +1351,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .scrollableContainer-2NUZem {
-    background-color: var(--background-secondary-alt);
+    background-color: var(--channeltextarea-background) !important;
 }
 
 .attachPopout-36hjtN {
