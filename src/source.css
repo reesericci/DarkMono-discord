@@ -11,6 +11,7 @@
     --background-modifier-active: rgba(50,50,50,0.24) !important;	
     --background-modifier-selected: rgba(50,50,50,0.32) !important;	
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
+    --channeltextarea-background: #292929 !important;
 }
 
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
