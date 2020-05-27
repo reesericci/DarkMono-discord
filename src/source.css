@@ -568,13 +568,6 @@
 	padding: 0 12px 0 40px !important;
 }
 
-.theme-dark .root-1gCeng {
-    background-color: var(--background-dark-primary) !important;
-    -webkit-box-shadow: none !important;
-    box-shadow: none !important;
-    border: 1px solid var(--background-dark-tertiary) !important;
-}
-
 .theme-dark .footer-3rDWdC {
     background-color: var(--background-dark-secondary);
     -webkit-box-shadow: none;
@@ -1299,10 +1292,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .selectorButtonSelected-1j4DmC {
     background-color: #7289da !important;
-}
-
-.theme-dark .root-1gCeng {
-    border-radius: 5px;
 }
 
 .theme-dark .theme-light .slide-2pHaq5 {
