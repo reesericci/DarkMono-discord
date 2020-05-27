@@ -11,7 +11,7 @@
     --background-modifier-active: rgba(50,50,50,0.24) !important;	
     --background-modifier-selected: rgba(50,50,50,0.32) !important;	
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
-    --channeltextarea-background: #292929 !important;
+    --channeltextarea-background: #202020 !important;
 }
 
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
@@ -1348,10 +1348,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .contextMenu-HLZMGh {
     background-color: black;
-}
-
-.scrollableContainer-2NUZem {
-    background-color: var(--channeltextarea-background) !important;
 }
 
 .attachPopout-36hjtN {
