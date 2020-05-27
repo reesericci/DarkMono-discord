@@ -19,6 +19,10 @@
     border-color: transparent !important;
 }
 
+.scrollableContainer-2NUZem {	
+    background-color: var(--channeltextarea-background) !important;	
+}
+
 .scroller-2FKFPG::-webkit-scrollbar-corner {
     background-color: transparent !important;
 }
