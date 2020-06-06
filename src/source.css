@@ -2028,10 +2028,7 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     box-shadow: none;
 }
 
-.emojiItem-14v6tW .emojiItemImageLoading-1yEIxx
-/* Fix Loading Emojis */
-
-{
+.emojiItem-14v6tW .emojiItemImageLoading-1yEIxx {
     background-image: none;
     background-color: var(--background-tertiary);
     border-radius: 30%;
@@ -2039,4 +2036,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .searchResult-2N9RV4.expanded-ovgtuV {
     background-color: var(--background-primary) !important;
+}
+
+#bd-pub-button {
+    background-color: var(--background-secondary-alt);
 }
