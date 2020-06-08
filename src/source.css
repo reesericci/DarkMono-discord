@@ -2041,3 +2041,9 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 #bd-pub-button {
     background-color: var(--background-secondary-alt);
 }
+
+.theme-dark .message-2qRu38 {
+    background-color: var(--background-tertiary);
+    -webkit-box-shadow: 0 0 0 1px var(--background-modifier-active), 0 2px 10px 0 rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 1px var(--background-modifier-active), 0 2px 10px 0 rgba(0, 0, 0, .2);
+}
