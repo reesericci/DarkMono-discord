@@ -2043,3 +2043,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19), .platform-win.
     -webkit-box-shadow: 0 0 0 1px var(--background-modifier-active), 0 2px 10px 0 rgba(0, 0, 0, .2);
     box-shadow: 0 0 0 1px var(--background-modifier-active), 0 2px 10px 0 rgba(0, 0, 0, .2);
 }
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background-color: var(--background-modifier-selected) !important;
+}
