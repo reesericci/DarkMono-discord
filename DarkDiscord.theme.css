@@ -1,14 +1,9 @@
 /**
 
- * @name Dark Discord
+ * @name DarkMono
  * @version 1.0
- * @description An actual dark mode for discord.
- * @source https://github.com/hellbound1337/dark-discord
- * @authorId 583062692596547585
- * @author hellbound
- * @donate https://paypal.me/zzzmario
- * @invite pCc7q4Z
-
+ * @description A beautiful dark theme with mononoki font for BetterDiscord
+ * @source https://github.com/reesericci/DarkMono-discord
 **/
 
-@import url(https://hellbound1337.github.io/dark-discord/src/source.css);
+@import url(https://reesericci.github.io/DarkMono-discord/src/source.css);
