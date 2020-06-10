@@ -1269,10 +1269,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-primary);
 }
 
-.theme-dark .footer-2VgWkh {
-    background-color: var(--background-secondary);
-}
-
 .theme-dark .item-3T2z1R {
     border-color: var(--background-tertiary);
 }
@@ -2046,4 +2042,9 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
     background-color: var(--background-tertiary);
     -webkit-box-shadow: 0 0 0 1px var(--background-modifier-active), 0 2px 10px 0 rgba(0, 0, 0, .2);
     box-shadow: 0 0 0 1px var(--background-modifier-active), 0 2px 10px 0 rgba(0, 0, 0, .2);
+}
+
+.theme-light #app-mount .item-PXvHYJ:nth-child(20) {
+	border: 2px solid white !important;
+  background: red !important;
 }
